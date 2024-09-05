@@ -20,7 +20,7 @@ Mobile Tuckshop is an Android application designed to enhance the fast food expe
 ## Requirements
 
 - Android device with GPS enabled.
-- Internet connection for location tracking and order processing.
+- Internet connection for location tracking and order processing..
 
 ## Installation
 
